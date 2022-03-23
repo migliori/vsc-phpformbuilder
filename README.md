@@ -3,7 +3,7 @@
 ![PHP Form Builder Logo](phpformbuilder.png)
 
 PHP Form Builder is a Visual Studio Code extension for [**Php Form Builder**](https://www.phpformbuilder.pro "Php Form Builder"),
-php class to build Bootstrap 3, Bootstrap 4, Material, Foundation and custom forms sold on [Codecanyon](http://codecanyon.net/category/php-scripts "Codecanyon").
+php class to build Bootstrap 4, Bootstrap 5, Bulma, Foundation, Material, Tailwind, uiKit and custom forms sold on [Codecanyon](http://codecanyon.net/category/php-scripts "Codecanyon").
 
 PHP Form Builder adds auto-completions for Form Builder's PHP class methods.
 

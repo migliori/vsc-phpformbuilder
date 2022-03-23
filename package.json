@@ -2,9 +2,9 @@
 	"name": "phpformbuilder",
 	"displayName": "PHP Form Builder",
 	"description": "PHP Form Builder is a Visual Studio Code extension for Php Form Builder, PHP framework to build Bootstrap, Material, Foundation and custom forms",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
-		"vscode": "^1.34.0"
+		"vscode": "^1.65.2"
 	},
 	"publisher": "Miglisoft",
 	"keywords": [
